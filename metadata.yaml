@@ -1,0 +1,43 @@
+_repo: The-Prose-Works-of-Jonathan-Swift-D.D.---Volume-10--13-Historical-Writings_13040
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Swift, Jonathan
+    alias: Swift, J. (Jonathan)
+    birthdate: 1667
+    deathdate: 1745
+    gutenberg_agent_id: '326'
+    url: http://www.gutenberg.org/2009/agents/326
+    wikipedia: http://en.wikipedia.org/wiki/Jonathan_Swift
+  editor:
+    agent_name: Scott, Temple
+    aliases:
+    - Isaacs, J. H.
+    - Isaacs, Isaac
+    - Scott, Isaac Temple
+    birthdate: 1864
+    deathdate: 1939
+    gutenberg_agent_id: '7900'
+    url: http://www.gutenberg.org/2009/agents/7900
+description: ''
+gutenberg_bookshelf: Politics
+gutenberg_issued: '2004-07-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13040'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- History -- Anne, 1702-1714'
+- !lcc 'PR'
+- !lcsh 'Anne, Queen of Great Britain, 1665-1714'
+- !lcsh 'Spanish Succession, War of, 1701-1714'
+- GITenberg
+tableOfContents: The history of the four last years of the Queen -- An abstract of
+  the history of England -- Remarks on the characters of the court of Queen Anne --
+  Remarks on Lord Clarendon's "History of the rebellion" -- Remarks on Bishop Burnet's
+  "History of his own time" -- Notes on the "Freeholder."
+title: "The Prose Works of Jonathan Swift, D.D. — Volume 10\r\nHistorical Writings"
+url: http://www.gutenberg.org/ebooks/13040
